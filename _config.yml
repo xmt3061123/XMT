@@ -1,5 +1,5 @@
-baseurl: /chuxing
-repository: github_username/github_username.github.io
-github_url: https://github.com/github_username
-url: https://github_username.github.io
+baseurl: /XMT
+repository: xmt3061123/xmt3061123.github.io
+github_url: https://github.com/xmt3061123
+url: https://xmt3061123.github.io
 theme: jekyll-theme-slate
